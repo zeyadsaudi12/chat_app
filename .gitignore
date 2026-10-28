@@ -17,6 +17,3 @@ Chat.Api/storage/
 # OS files
 .DS_Store
 Thumbs.db
-
-# Separately managed deployed client checkout
-chat-client/
