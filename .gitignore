@@ -1,0 +1,22 @@
+# Node / Angular dependencies and generated files
+**/node_modules/
+**/dist/
+**/.angular/
+
+# .NET build output and local IDE settings
+**/bin/
+**/obj/
+.vs/
+.vscode/
+
+# Local runtime data and machine-specific settings
+Chat.Api/storage/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Separately managed deployed client checkout
+chat-client/
